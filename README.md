@@ -28,7 +28,7 @@ Most of my larger projects are **collaborative, team-based university projects**
 ![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
 ![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)
 
----
+
 
 ### ⚙️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -38,7 +38,7 @@ Most of my larger projects are **collaborative, team-based university projects**
 ![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
----
+
 
 ### 🗄️ Databases & Data
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
@@ -47,7 +47,7 @@ Most of my larger projects are **collaborative, team-based university projects**
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge)
 ![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge)
 
----
+
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -58,7 +58,7 @@ Most of my larger projects are **collaborative, team-based university projects**
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
----
+
 
 ### 🤖 Systems, Robotics & Embedded
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros)
@@ -93,6 +93,6 @@ Most of my larger projects are **collaborative, team-based university projects**
 
 ---
 
-📫 **Contact**
+## 📫 Contact
 - Email: sukhdarshansingh03@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/sukhdarshan-singh-726734299
